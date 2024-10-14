@@ -18,11 +18,11 @@ export default function Book(props) {
   const modelRef = useRef()
   useFrame((state, delta, xrFrame) => {
     // This function runs at the native refresh rate inside of a shared render-loop
-    modelRef.current.position.y = -1 + Math.sin(state.clock.elapsedTime) * .2;
+    modelRef.current.position.y = -.25 + Math.sin(state.clock.elapsedTime) * .15;
   })
   return (
     <group {...props} ref={modelRef} dispose={null} 
-    position={[-1.25,0,0]} scale={[3,3,3]} rotation={[.5,.5,0]}
+    position={[-1,0,0]} scale={[2.5,3,2.5]} rotation={[.5,.5,0]}
     >
       <mesh geometry={nodes.Architexture_0.geometry} material={materials.Architexture} rotation={[-Math.PI / 2, 0, 0]} />
       <mesh geometry={nodes.Architexture_1.geometry} material={materials.Bookpage} rotation={[-Math.PI / 2, 0, 0]} />
