@@ -24,7 +24,7 @@ module.exports = {
         background: 'rgb(var(--background))',
         foreground: 'rgb(var(--foreground))',
         muted: 'rgb(var(--muted))',
-        accent: 'rgb(var(--accent)',
+        accent: 'rgb(var(--accent))',
       },
       boxShadow: {
         'glass-inset': 'inset 0 17px 5px -9px rgba(254,254,91,0.05)',
