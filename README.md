@@ -1,6 +1,8 @@
 This repository contains **starter code** for Next.js Creative Portfolio website built using Next.js and Three.js. <br />
 
-Initial Source from https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files?tab=readme-ov-file by codebucks27 (https://github.com/codebucks27)
+Initial Source from https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files?tab=readme-ov-file 
+
+Original project and tutorial from codebucks27 (https://github.com/codebucks27)
 
 ## Images of The Portfolio Website:
 
