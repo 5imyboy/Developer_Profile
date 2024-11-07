@@ -1,4 +1,4 @@
-import { Home, User, Palette, Phone, Github, Linkedin, NotebookIcon, Twitter } from 'lucide-react'
+import { Home, User, Palette, Phone, Github, Linkedin, NotebookIcon } from 'lucide-react'
 import React from 'react'
 import Link from 'next/link'
 import ResponsiveComponent from '../ResponsiveComponent';
@@ -25,9 +25,6 @@ const getIcon = (icon) => {
             break;
         case "linkedin":
             return <Linkedin className='w-full h-auto' strokeWidth={strokeW} />
-            break;
-        case "twitter":
-            return <Twitter className='w-full h-auto' strokeWidth={strokeW} />
             break;
         case "resume":
             return <NotebookIcon className='w-full h-auto' strokeWidth={strokeW} />

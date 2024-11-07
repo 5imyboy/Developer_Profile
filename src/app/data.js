@@ -107,12 +107,6 @@ export const BtnList = [
     newTab: true,
   },
   {
-    label: "X",
-    link: "https://www.x.com/code_bucks",
-    icon: "twitter",
-    newTab: true,
-  },
-  {
     label: "Resume",
     link: "/resume.pdf",
     icon: "resume",
