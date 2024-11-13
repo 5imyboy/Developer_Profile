@@ -24,7 +24,6 @@ const Navigation = () => {
     const isMedium = (size >= 768);
 
     return (
-        // For some reason, width is not centered at 100%
         <div className='w-full fixed h-screen flex items-center justify-center'>
             <ResponsiveComponent>
             {({size}) => {
@@ -38,7 +37,7 @@ const Navigation = () => {
                     {
                         BtnList.map((btn, index) => {
                             const btnAngle = index * angleIncrement
-                            const radius = isLarge ? 'calc(20vw - 1rem)' : (isMedium ? 'calc(30vw - 1rem)' : 'calc(40vw - 1rem')
+                            const radius = isLarge ? 'calc(20vw - 1rem)' : (isMedium ? 'calc(30vw - 1rem)' : 'calc(40vw - 1rem)')
                             const x = `calc(${radius}*${Math.cos(btnAngle)})`
                             const y = `calc(${radius}*${Math.sin(btnAngle)})`
                             return <NavButton key={btn.label} x={x} y={y} {...btn} />
