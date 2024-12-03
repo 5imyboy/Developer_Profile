@@ -4,25 +4,15 @@ Initial Source from https://github.com/codebucks27/Nextjs-Creative-Portfolio-Sta
 
 Original project and tutorial from codebucks27 (https://github.com/codebucks27)
 
-## Images of The Portfolio Website:
-
-#### Home
-
-#### About
-
-#### Projects
-
-#### Contact
-
-#### Mobile Version
-
 ## Resources Used in This Project
 
 #### 3D Models
-
-#### AI Images
+public/models/credits.txt
 
 #### Github Stats & Details
+- [Github ReadMe Stats](https://github.com/anuraghazra/github-readme-stats) <br />
+- [Skills Icons](https://skillicons.dev) <br />
+- [Github Readme Streak Stats](https://github.com/anuraghazra/github-readme-stats) <br />
 
 #### Development Resources
 
@@ -33,10 +23,6 @@ Original project and tutorial from codebucks27 (https://github.com/codebucks27)
 - Animations using [framer-motion](https://www.framer.com/motion/) <br />
 - Emails using [Emailjs](https://www.emailjs.com/) <br />
 - Convert 3d models to JSX using [Gltf JSX](https://github.com/pmndrs/gltfjsx)
-
-#### Audio 
-
-- Music by <a href="https://pixabay.com/users/shidenbeatsmusic-25676252/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=20772">Shiden Beats Music</a> from <a href="https://pixabay.com/music//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=20772">Pixabay</a>
 
 ---
 
