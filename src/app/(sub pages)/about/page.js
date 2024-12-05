@@ -25,7 +25,6 @@ export default function Home() {
       <div className="relative w-full h-screen flex flex-col items-center justify-center">
         <div className="absolute w-full flex flex-col items-center text-center top-[%50] sm:top-[%60] left-1/2 -translate-x-1/2">
           <h1 className="font-bold text-6xl xs:text-7xl sm:text-8xl lg:text-9xl text-accent">Simon Yong</h1>
-          <p className="font-light text-2xl text-foreground text-ls mt-8">About me:</p>
         </div>
       </div>
       <AboutDetails />
