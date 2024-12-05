@@ -37,7 +37,7 @@ const Navigation = () => {
                     {
                         BtnList.map((btn, index) => {
                             const btnAngle = index * angleIncrement
-                            const radius = isLarge ? 'calc(20vw - 1rem)' : (isMedium ? 'calc(30vw - 1rem)' : 'calc(40vw - 1rem)')
+                            const radius = isLarge ? 'calc(20vw - 1rem)' : (isMedium ? 'calc(25vw - 1rem)' : 'calc(30vw - 1rem)')
                             const x = `calc(${radius}*${Math.cos(btnAngle)})`
                             const y = `calc(${radius}*${Math.sin(btnAngle)})`
                             return <NavButton key={btn.label} x={x} y={y} {...btn} />

@@ -14,7 +14,7 @@ export default function Home() {
       <Image priority sizes="100vw" src={bg} alt="background-image" fill className="w-full h-full object-cover object-center opacity-25"/>
       <div className="w-full h-screen flex flex-col">
         <div className="w-full fixed">
-          <p className="text-center text-foreground text-4xl p-4">
+          <p className="text-center text-accent text-3xl md:text-4xl lg:text-5xl p-4">
             Simon's Developer Website
           </p>
         </div>
