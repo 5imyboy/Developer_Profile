@@ -28,7 +28,11 @@ public/models/credits.txt
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## View
+
+Deployed on: https://simon-developer-profile.vercel.app
+
+## View Locally
 
 First, install the dependencies and run the development server:
 
