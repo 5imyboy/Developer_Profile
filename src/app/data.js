@@ -31,6 +31,13 @@ export const projectsData = [
     date: "2024-09-30",
     demoLink: "https://github.com/5imyboy/3body_translate",
   },
+  {
+    id: 3,
+    name: "FitStack Workout App",
+    description: "Exercise Tracker",
+    date: "2025-07-25",
+    demoLink: "https://github.com/5imyboy/workout-tracker-fitstack",
+  }
 ];
 
 export const BtnList = [
