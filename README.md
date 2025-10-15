@@ -4,6 +4,12 @@ Initial Source from https://github.com/codebucks27/Nextjs-Creative-Portfolio-Sta
 
 Original project and tutorial from codebucks27 (https://github.com/codebucks27)
 
+#### Demo
+
+Link: https://developer-profile-git-main-5imyboys-projects.vercel.app
+
+<img width="1463" height="836" alt="Screenshot 2025-10-15 at 2 23 56 PM" src="https://github.com/user-attachments/assets/d05b0ce7-f610-49c5-9782-7b7330f0595a" />
+
 ## Resources Used in This Project
 
 #### 3D Models
